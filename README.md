@@ -24,5 +24,5 @@ myburghkeith1@gmail.com a picture of your favorite album cover art. I have
 been listening to the same music for too long and am looking for some new
 suggestions.
 
-Bonus points if they sound similar to the Black Keys / Arctic Monkeys if they
+Bonus points if they sound similar to the Black Keys / Arctic Monkeys and they
 actually had / have a drummer who is not afraid to allow some 808s into the mix. 
