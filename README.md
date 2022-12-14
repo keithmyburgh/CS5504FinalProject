@@ -4,8 +4,10 @@ This is Keith Myburgh's final project code for CS5504 at Virginia Tech.
 
 In this repo exists the perceptron.scala file, which contains the code
 for the Perceptron branch predictor. If you would like to run this, you
-need to place it into a clone of the chipyard repo at chipyard/generators/
-boom/src/main/scala/ifu/bpd.
+need to clone the chipyard repository first.
+
+Once that is complete, you need to place the perceptron.scala into the bpd
+directory. This can be found at chipyard/generators/boom/src/main/scala/ifu/bpd.
 
 Additionally, you will need to replace the BoomConfigs.scala and
 config-mixins.scala files in the repo with the two I have provided in the
